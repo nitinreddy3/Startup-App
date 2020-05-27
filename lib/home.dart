@@ -6,12 +6,12 @@ class Home extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Center(
-          child: Text('Coders'),
+          child: Text('Factify'),
         ),
       ),
       body: Center(
         child: Container(
-          child: Text('Coding started'),
+          child: Text('Facts are coming soon...'),
         ),
       ),
     );
