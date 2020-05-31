@@ -8,6 +8,7 @@ class Home extends StatelessWidget {
         title: Center(
           child: Text('Factify'),
         ),
+        backgroundColor: Colors.orange,
       ),
       body: Center(
         child: Container(
