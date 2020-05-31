@@ -12,7 +12,8 @@ class Home extends StatelessWidget {
       ),
       body: Center(
         child: Container(
-          child: Text('Facts are coming soon...'),
+          child: Text(
+              'Facts that you are looking out about Life, Health and Wealth'),
         ),
       ),
     );
